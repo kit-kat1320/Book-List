@@ -1,4 +1,4 @@
-# Book Store MERN stack project
+# Book List MERN stack project
 
-Fully functional bookstore app.
+Book List application.
 It was built using MongoDB, Mongoose, and Node.js for the backend functionality. Front end was created using REact, Vite, and Tailwind CSS. 
